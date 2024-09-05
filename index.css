@@ -1,0 +1,170 @@
+body{
+    text-decoration: none;
+    font-family: inherit;
+    width: 100%;
+   
+}
+#main{
+    margin-left: 38%;
+}
+@font-face {
+    font-family: instagramlogofont;
+    src: url(font/instgramlogo.otf);
+}
+fieldset{
+    width: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 1px solid rgb(186, 186, 186);
+    
+}
+#heading{
+    text-align: center;
+    font-family: instagramlogofont;
+    font-size: 45px;
+    text-decoration: none;
+    cursor: pointer;
+}
+#p-one{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(95, 95, 95);
+}
+button{
+    width: 280px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #2895f6;
+    background-color: #2895f6;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+button a{
+    color: white;
+    text-decoration: none;
+}
+#button-up:hover{
+    background-color: #0280ee;
+}
+#button-down{
+    background-color: #42a6fd;
+    border: 1px solid #42a6fd;
+}
+#left{
+    float: left;
+}
+#right{
+    float: right;
+}
+#left p{
+    margin-left: 20px;
+    font-weight: bold;
+    color: rgb(95, 95, 95);
+}
+hr{
+    width: 100px;
+    margin-top: 25px;
+}
+#or-div{
+    margin-top: 12px;
+}
+input{
+    width: 265px;
+    height: 40px;
+    padding-left: 10px;
+    margin-top: 7px;
+    border: 1px solid rgb(165, 165, 165);
+    border-radius: 2px;
+}
+input:focus{
+    outline: none;
+    border-color: rgb(110, 110, 110);
+}
+#p-two{
+    color: rgb(95, 95, 95);
+    font-size: 14.5px;
+    text-align: center;
+}
+#p-two a{
+    text-decoration: none;
+    color: #1e4b75;
+    cursor: pointer;
+}
+#p-three{
+    color: rgb(95, 95, 95);
+    font-size: 14.5px;
+    text-align: center;
+}
+#p-three a{
+    text-decoration: none;
+    color: #1e4b75;
+    cursor: pointer;
+}
+#haveaccount{
+    width: 280px;
+    height: 2px;
+    margin-top: 15px;
+    padding-top: 25px;
+    text-align: center;
+}
+#haveaccount a{
+    text-decoration: none;
+    color: #2895f6;
+    font-weight: bold;
+}
+#get-the-app{
+    margin-left: 155px;
+    margin-top: 20px;
+}
+#image{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#applestorelogo{
+    width: 160px;
+}
+#googleplaylogo{
+    width: 160px;
+}
+#footer{
+    margin-top: 80px;
+    text-align: center;
+    word-spacing: 10px;
+    margin-left: 1%;
+    margin-bottom: 50px;
+      
+}
+#footer a{
+    text-decoration: none;
+    color: rgb(95, 95, 95); 
+}
+#footer p{
+    color: rgb(95, 95, 95)
+}
+#footer a:hover{
+    text-decoration: underline;
+}
+.fa {
+    font-size: 30px;
+    width: 13px;
+    text-align: right;
+    text-decoration: none;
+   border-radius: 1px;
+   padding-top: 2px;
+   padding-right: 2px;
+   padding-left: 2px;
+   margin-right: 5px;
+  }
+  .fa-facebook {
+    background: white;
+    color: #2895f6;
+  }
+#p-four{
+    word-spacing: normal;
+}
